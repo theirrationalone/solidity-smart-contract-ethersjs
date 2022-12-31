@@ -75,7 +75,7 @@
 **SETUP DONE!**
 
 ## 2. **SETTING ENVIRONMENT VARIABLES**
-
+#### **Create a file .env and add keys given below with your credentials**
 -   GOERLI_JSON_RPC_URL=your-rpc-from-alchemy-app
 
 -   METAMASK_PRIVATE_KEY=your-metamask-private-key
