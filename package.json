@@ -1,0 +1,33 @@
+{
+  "name": "project-1-ethersjs",
+  "version": "1.0.0",
+  "description": "final-revision-ethersjs",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "solcjs --abi --bin --include-path node_modules/ --base-path . -o . contracts/SimpleStorage.sol",
+    "wallet:encrypt": "node encrypt.js",
+    "contract:deploy": "node deploy.js"
+  },
+  "keywords": [
+    "javascript",
+    "solidity",
+    "ethersjs",
+    "smartContracts",
+    "hybridContracts",
+    "blockchain",
+    "ethereum",
+    "web3"
+  ],
+  "author": "theirrationalone",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "solc": "^0.8.17"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "prettier": "^2.8.1",
+    "prettier-plugin-solidity": "^1.1.1"
+  }
+}

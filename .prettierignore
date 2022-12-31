@@ -1,0 +1,6 @@
+node_modules
+.env
+contracts_SimpleStorage_sol_SimpleStorage.bin
+contracts_SimpleStorage_sol_SimpleStorage.abi
+package.json
+package-lock.json
