@@ -84,7 +84,7 @@
 
 ## 3. **RUNNING SCRIPTS**
 
-# ** Note**: Follow Steps below if You are running your project on vs code otherwise open your terminal / shell / bash / cmd, with admin privileges then go to your project's directory i.e. as on windows "C:/users/username/documents/your_project/" and then paste and run commands given below in sequence.
+# **Note**: Follow Steps below if You are running your project on vs code otherwise open your terminal / shell / bash / cmd, with admin privileges then go to your project's directory i.e. as on windows "C:/users/username/documents/your_project/" and then paste and run commands given below in sequence.
 
 ### a. Copy code below, Go to Your Project, Open Terminal then paste it into terminal.
 
