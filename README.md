@@ -84,7 +84,15 @@
 
 ## 3. **RUNNING SCRIPTS**
 
-### a. Copy code below, Go to Your Project, Open Terminal then Paste it into terminal then hit enter. After successful execution of script you can delete **METAMASK_PRIVATE_KEY** environment variable.
+# ** Note**: Follow Steps below if You are running your project on vs code otherwise open your terminal / shell / bash / cmd, with admin privileges then go to your project's directory i.e. as on windows "C:/users/username/documents/your_project/" and then paste and run commands given below in sequence.
+
+### a. Copy code below, Go to Your Project, Open Terminal then paste it into terminal.
+
+```shell
+npm install
+```
+
+### b. Copy code below, Go to Your Project, Open Terminal then Paste it into terminal then hit enter. After successful execution of script you can delete **METAMASK_PRIVATE_KEY** environment variable from .env file.
 
 <br />
 
@@ -92,7 +100,7 @@
 npm run wallet:encrypt
 ```
 
-### b. Copy code below, Go to Your Project, Open Terminal then Paste it into terminal then hit enter.
+### c. Copy code below, Go to Your Project, Open Terminal then Paste it into terminal then hit enter.
 
 <br />
 
