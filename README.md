@@ -89,7 +89,7 @@
 ### a. Copy code below, Go to Your Project, Open Terminal then paste it into terminal.
 
 ```shell
-npm install
+npm install --force
 ```
 
 ### b. Copy code below, Go to Your Project, Open Terminal then Paste it into terminal then hit enter. After successful execution of script you can delete **METAMASK_PRIVATE_KEY** environment variable from .env file.
